@@ -1,2 +1,2 @@
-# Bakery-Site
-Bakery website with responsive layout
+# Bakery-Landing
+Bakery landing page with responsive layout
